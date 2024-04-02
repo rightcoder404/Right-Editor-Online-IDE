@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+Project Title: Online Code Editor with Real-time Rendering
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description
+Welcome to the Online Code Editor with Real-time Rendering! This project provides a platform where users can write HTML, CSS, and JavaScript code directly on the website and see the real-time rendering of their code. It offers a seamless coding experience with immediate feedback, allowing users to experiment with different code snippets and instantly visualize the results.
 
-## Available Scripts
+Features
+Real-time Rendering: As you type your code, the website instantly renders the output, providing immediate feedback on your changes.
 
-In the project directory, you can run:
+Support for HTML, CSS, and JavaScript: Write and test your HTML, CSS, and JavaScript code all in one place.
 
-### `npm start`
+Local Storage: Your code progress is automatically saved to local storage, so you can continue from where you left off even after closing the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+User-friendly Interface: The interface is intuitive and easy to use, making it suitable for both beginners and experienced developers.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Getting Started
+To get started with the Online Code Editor:
 
-### `npm test`
+Clone the Repository: Clone this repository to your local machine using git clone.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install Dependencies: Navigate to the project directory and run npm install to install all dependencies.
 
-### `npm run build`
+Run the Application: Use npm start to start the development server. The website will open automatically in your default web browser.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Start Coding: Begin writing your HTML, CSS, and JavaScript code in the provided editor. The rendered output will be displayed in real-time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+License
+This project is licensed under the MIT License.
 
-### `npm run eject`
+Feedback
+We welcome any feedback or suggestions you may have. If you encounter any issues or have ideas for improvements, please open an issue on GitHub.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for choosing the Online Code Editor with Real-time Rendering! Happy coding!
